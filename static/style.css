@@ -1,0 +1,37 @@
+#st_header {
+color: red;
+font-family: courier;
+font-size: 160%;
+text-align: center;
+}
+
+#submit_form {
+color: red;
+font-family: courier;
+font-size: 160%;
+text-align: center;
+}
+#container {
+text-align: center;
+background-color: #006666;
+
+}
+#container input{
+width: 350px;
+height:15px;
+
+
+}
+#email
+{
+  margin-left:15px;
+}
+#height
+{
+  margin-left:120px;
+}
+html,body
+{
+  height: 100%;
+  margin: 0;
+}
